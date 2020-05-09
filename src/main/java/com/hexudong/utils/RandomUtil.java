@@ -12,6 +12,7 @@ import java.util.Random;
 public class RandomUtil {
 	/**
 	 * @Title: random   
+	 * 
 	 * @Description: 获得指定区间的随机数   
 	 * @param: @param min
 	 * @param: @param max
